@@ -1,0 +1,1 @@
+Leaninng  C pointers, arrays
